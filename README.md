@@ -1,3 +1,5 @@
+The website can be accessed with [LIVE BURGER BUILDER](https://burger-builder-3f411.web.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
